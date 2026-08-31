@@ -1,0 +1,24 @@
+{
+  "name": "2호선 역세권 분석",
+  "dataColors": ["#00A84D", "#E4572E", "#2D6BB5", "#A8AC9E", "#5A5F52", "#8B9082", "#C9CDBF", "#DFE2D8"],
+  "background": "#FAFAF7",
+  "foreground": "#5A5F52",
+  "tableAccent": "#00A84D",
+  "textClasses": {
+    "title":     { "fontFace": "Segoe UI Semibold", "fontSize": 14, "color": "#2E322A" },
+    "header":    { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#2E322A" },
+    "label":     { "fontFace": "Segoe UI", "fontSize": 10, "color": "#5A5F52" },
+    "callout":   { "fontFace": "Segoe UI Semibold", "fontSize": 30, "color": "#2E322A" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background":  [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border":      [{ "show": true, "color": { "solid": { "color": "#E4E7DC" } }, "radius": 8 }],
+        "visualHeader":[{ "show": false }],
+        "title":       [{ "fontColor": { "solid": { "color": "#2E322A" } }, "fontSize": 12, "alignment": "left" }]
+      }
+    },
+    "page": { "*": { "background": [{ "color": { "solid": { "color": "#FAFAF7" } }, "transparency": 0 }] } }
+  }
+}
