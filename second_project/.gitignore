@@ -1,0 +1,6 @@
+# Original datasets
+11.13/data/raw/
+
+# Python temporary files
+__pycache__/
+.ipynb_checkpoints/
