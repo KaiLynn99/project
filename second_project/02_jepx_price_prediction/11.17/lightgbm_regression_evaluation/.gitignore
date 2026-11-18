@@ -1,0 +1,5 @@
+# 再計算用の非公開データを誤ってコミットしないための設定
+/data/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
