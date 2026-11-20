@@ -1,0 +1,35 @@
+{
+  "name": "モダピ",
+  "dataColors": [
+    "#2F6F8F",
+    "#D98A0B",
+    "#C8432F",
+    "#5B6670",
+    "#8FB3C7",
+    "#E9C27A",
+    "#B9C0C6"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1C2329",
+  "tableAccent": "#2F6F8F",
+  "good": "#2F6F8F",
+  "neutral": "#D98A0B",
+  "bad": "#C8432F",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 14,
+      "color": "#1C2329"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#5B6670"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 28,
+      "color": "#1C2329"
+    }
+  }
+}
